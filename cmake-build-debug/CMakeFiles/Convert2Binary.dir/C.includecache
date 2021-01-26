@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/SynologyDrive/C Projects/Just 4 Fun/Convert2Binary/main.c
+stdio.h
+D:/SynologyDrive/C Projects/Just 4 Fun/Convert2Binary/stdio.h
+

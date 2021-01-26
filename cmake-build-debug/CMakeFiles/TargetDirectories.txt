@@ -1,0 +1,3 @@
+D:/SynologyDrive/C Projects/Just 4 Fun/Convert2Binary/cmake-build-debug/CMakeFiles/Convert2Binary.dir
+D:/SynologyDrive/C Projects/Just 4 Fun/Convert2Binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SynologyDrive/C Projects/Just 4 Fun/Convert2Binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
